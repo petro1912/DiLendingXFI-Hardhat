@@ -1,0 +1,66 @@
+[
+    {
+        "linkReference": "contracts/oracle/DIAOracleV2Multiupdate.sol:DIAOracleV2", 
+        "address": "0xEc960258F3e38E1E89dD2c01BB8988D91866CbC9"
+    },
+    {
+        "linkReference": "contracts/invest/InvestmentModule.sol:InvestmentModule", 
+        "address": "0xC99d00f8eFE62ecC0B1A588420F82BBeBf0d4340"
+    },
+    {
+        "linkReference": "contracts/libraries/TransferLib.sol:TransferLib", 
+        "address": "0x2f74146E3a055be8852B7E89f55c5Ec22d198856"
+    },
+    {
+        "linkReference": "contracts/libraries/PriceLib.sol:PriceLib", 
+        "address": "0x8f25AB10478af5110D8c14f449d1B8647B68c735"
+    },
+    {
+        "linkReference": "contracts/libraries/InterestRateModel.sol:InterestRateModel", 
+        "address": "0xaa2a5562AC3A0272726899141CEE15c01Dfc7902"
+    },
+    {
+        "linkReference": "contracts/libraries/InvestmentLib.sol:InvestmentLib", 
+        "address": "0x9419954a16749c25568DFaF54Ac887717fea0A3A"
+    },
+    {
+        "linkReference": "contracts/libraries/ValveLib.sol:ValveLib", 
+        "address": "0xDFAa345dd1B354F1A0eBaaDbf939FAF38A04E050"
+    },
+    {
+        "linkReference": "contracts/libraries/InitializeAction.sol:InitializeAction", 
+        "address": "0x133c03f96ae8d3A5356280e4c42058Caf2A7abd0"
+    },
+    {
+        "linkReference": "contracts/libraries/AccountingLib.sol:AccountingLib", 
+        "address": "0xf9CB9C005a55D3D0ce6E77013f29E27C33F0f2c4"
+    },
+    {
+        "linkReference": "contracts/libraries/InitializeConfig.sol:InitializeConfig", 
+        "address": "0x0a78bE3aAd15F6618fc35C13591556A99E35aFF2"
+    },
+    {
+        "linkReference": "contracts/libraries/PositionInfo.sol:PositionInfo", 
+        "address": "0x163D2aeAa4529aF14e963F939651b4ee657bC3f2"
+    },
+    {
+        "linkReference": "contracts/libraries/Repay.sol:Repay", 
+        "address": "0xFF2B23a3C16036fdEBE50f7A38169fB6ba053733"
+    },
+    {
+        "linkReference": "contracts/libraries/Borrow.sol:Borrow", 
+        "address":  "0x515c6ddc6B0Dc86Ca52002c3a6887ec8E69DB6D1"
+    },
+    {
+        "linkReference": "contracts/libraries/Supply.sol:Supply", 
+        "address":  "0x9e15b43F6D9D600Cd7be0A35120bC0C3e6BE5d10"
+    },
+    {
+        "linkReference": "contracts/libraries/Liquidation.sol:Liquidation", 
+        "address":  "0xC49d7E95caeAfBa1493A5bC6dAe056Fe7114eab5"
+    },
+    {
+        "linkReference": "contracts/libraries/PoolStatistics.sol:PoolStatistics", 
+        "address":  "0x5D5f9E4be6be6d5899ba8994ECe031D41d8439A2"
+    }
+]
